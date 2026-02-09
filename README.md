@@ -8,7 +8,7 @@
 ## Так кто же я?
 
 
-<img src="./images/photo_2026-02-09_20-45-13.jpg" width="250">
+<img src="./images/photo_2026-02-09_20-45-13.jpg" width="700">
 
 
 ### О себе
